@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>主子日記 - 情緒管理 App (v4)</title>
+  <title>小狗日記 - 情緒管理 App (v4)</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&family=Noto+Sans+TC:wght@300;400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -129,7 +129,7 @@
               <img id="img-preview-photo" src="" class="preview-media-img">
             </div>
             <div id="box-preview-drawing" class="hidden">
-              <span class="text-[10px] text-slate-400 font-bold block mb-1">主子手寫/繪圖</span>
+              <span class="text-[10px] text-slate-400 font-bold block mb-1">小狗手寫/繪圖</span>
               <img id="img-preview-drawing" src="" class="preview-media-img">
             </div>
           </div>
