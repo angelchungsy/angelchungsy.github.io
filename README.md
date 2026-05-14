@@ -84,7 +84,7 @@
 </head>
 <body class="pb-24">
   <div class="w-full pt-1 px-2 flex justify-center">
-    <img src="https://i.postimg.cc/dVmfbFhQ/banner4.png" alt="頂部 Banner" class="w-4/5 max-w-md object-contain block" style="max-width:min(28rem,100%)" style="background-color: transparent;">
+    <img src="https://i.postimg.cc/dVmfbFhQ/banner4.png" alt="頂部 Banner" class="w-4/5 max-w-md object-contain block" style="max-width:min(28rem,70%)" style="background-color: transparent;">
 
   </div>
 
