@@ -85,6 +85,8 @@
 <body class="pb-24">
   <div class="w-full pt-1 px-2 flex justify-center">
     <img src="https://i.postimg.cc/dVmfbFhQ/banner4.png" alt="頂部 Banner" class="w-4/5 max-w-md object-contain block" style="max-width:min(28rem,100%)">
+    <img src="https://i.postimg.cc/dVmfbFhQ/banner4.png" style="background-color: transparent;">
+
   </div>
 
   <main id="app" class="px-6 pt-0 max-w-md mx-auto">
